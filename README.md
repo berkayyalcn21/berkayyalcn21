@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 		<img align="center" src="/images/xcode.png" alt="Xcode" height="40" width="40" />
 	</a>
 	<a href = "https://www.jetbrains.com/pycharm/" target="_blank">
-		<img align="center" src="/images/pycharm.png" alt="PyCharm" height="40" width="40" />
+		<img align="center" src="/images/pycharm.svg" alt="PyCharm" height="40" width="40" />
 	</a>
 	<a href = "https://firebase.google.com/" target="_blank">
 		<img align="center" src="/images/firebase.svg" alt="Firebase" height="40" width="40" />
 	</a>
 	<a href = "https://kotlinlang.org/" target="_blank">
-		<img align="center" src="/images/swift.png" alt="Swift" height="40" width="40" />
+		<img align="center" src="/images/swift.svg" alt="Swift" height="40" width="40" />
 	</a>
 	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
 		<img align="center" src="/images/python.svg" alt="Python" height="40" width="40" />

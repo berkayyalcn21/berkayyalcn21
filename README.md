@@ -30,14 +30,8 @@ Here are some ideas to get you started:
 	<a href = "https://firebase.google.com/" target="_blank">
 		<img align="center" src="/images/firebase.svg" alt="Firebase" height="40" width="40" />
 	</a>
-	<a href = "https://kotlinlang.org/" target="_blank">
-		<img align="center" src="/images/swift.svg" alt="Swift" height="40" width="40" />
-	</a>
 	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
 		<img align="center" src="/images/python.svg" alt="Python" height="40" width="40" />
-	</a>
-	<a href = "https://jupyter.org/" target="_blank">
-		<img align="center" src="/images/jupyter-notebook.svg" alt="Jupyter Notebook" height="40" width="40" />
 	</a>
 	<a href = "https://git-scm.com/" target="_blank">
 		<img align="center" src="/images/git.svg" alt="Git" height="40" width="40" />
